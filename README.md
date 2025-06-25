@@ -22,30 +22,11 @@ Welcome to the **Digital Coins Agent**, a real-time cryptocurrency price assista
 
 ---
 
-### 1. Clone the Repository
+### Clone the Repository
 
 ```bash
 git clone https://github.com/RahatBano58/Crypto_Currency.git
 cd Crypto_Currency
-
----
-
-### 2. Create and Activate Virtual Environment
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-
----
-
-### 🙌 Acknowledgements
-
-Chainlit
-Google Gemini API
-Binance API
-OpenAI agents framework
-
-###  📬 Contact
-Made with ❤️ by Rahat Bano
-Let’s connect on LinkedIn
 
 
 
